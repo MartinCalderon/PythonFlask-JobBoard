@@ -23,6 +23,11 @@ Windows
 venv\Scripts\activate.bat
 ```
 
+<details>
+  <summary>Click to expand</summary>
+  whatever
+</details>
+
 macOS & Linux
 ```
 source venv/bin/activate
